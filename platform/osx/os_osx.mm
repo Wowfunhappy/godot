@@ -74,6 +74,9 @@
 #define NSWindowStyleMaskMiniaturizable NSMiniaturizableWindowMask
 #define NSWindowStyleMaskClosable NSClosableWindowMask
 #define NSWindowStyleMaskBorderless NSBorderlessWindowMask
+#define NSAlertStyleWarning NSWarningAlertStyle
+#define NSEventSubtypeTabletPoint NSTabletPointEventSubtype
+#define NSOpenGLContextParameterSurfaceOpacity NSOpenGLCPSurfaceOpacity
 #endif
 
 #ifndef NSAppKitVersionNumber10_12
